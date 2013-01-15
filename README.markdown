@@ -1,6 +1,8 @@
 # Voracious Velociraptor
 ## 2012 Rebound Rumble
 
+![Sir Galahad](https://bitbucket.org/rtzoeller/voracious-velociraptor/raw/1175cb239b0d97fb128c8b78e5030cfd4f5410df/Sir%20Galahad.jpg)
+
 Sir Galahad, our 2012 Rebound Rumble robot, performed better than expected and brought us to the [2012 FRC World Championship Event](http://www.usfirst.org/roboticsprograms/frc/championship-event) held in St. Louis, MI. Although it was amazing in competition, programming our robot for the 2012 season was a challenge.
 
 ## Summary of Code
